@@ -283,6 +283,7 @@ txtImportedBy,
             txtQuantity.Clear();
             txtImportedBy.Clear();
             txtNoofCopies.Clear();
+            txtSerialNo.Clear();
         }
 
         private void btnSave_Click(object sender, EventArgs e)
